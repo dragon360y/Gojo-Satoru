@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['‪+13255150966‬']
-global.premium = ['+94774076967']
+global.owner = ['‪13255150966‬']
+global.premium = ['94774076967']
 global.ownernomer = '+13255150966'
 global.ownername = '🐦ZeniYA.xyz'
-global.botname = 'Gojo-Satoru'
+global.botname = 'Anon Skull v2'
 global.footer = '©ZeniYAxyZInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'Sri Lanka, Colombo'
